@@ -1,0 +1,6 @@
+title: "Manmadharao Patibandla"
+logo: "https://github.com/Manmadha1/ManmadharaoPatibandla.github.io-portfolio/blob/main/Manmadharao.Patibandla.jpg" # Ensure this is correct
+description: "Java Full-Stack Developer"
+show_downloads: true
+theme: jekyll-theme-minimal
+include: ["style.css"]
