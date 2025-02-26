@@ -41,7 +41,7 @@ I am a **Java Full Stack Developer** with **4+ years** of experience, having wor
 - Optimized **SQL queries** for faster data retrieval.
 - Implemented **CI/CD pipelines** using Jenkins and Docker.
 
-### **DXC Technology | Java Developer | Mar 2020 – Dec 2021**  
+### **DXC Technology | Software Developer | Mar 2020 – Dec 2021**  
 - Developed and optimized **Spring Boot** applications.
 - Designed and maintained **MongoDB** and **MySQL** databases.
 - Worked in an **Agile environment** to deliver high-quality software.
