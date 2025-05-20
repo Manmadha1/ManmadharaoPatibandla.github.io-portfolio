@@ -24,14 +24,14 @@ I am a **Java Full Stack Developer** with **4+ years** of experience, having wor
 
 ##  Professional Experience  
 
-### **Pearson | Java Full Stack Developer | July 2024 – Present**  
+### **Pearson | Software Developer | July 2024 – Present**  
 - Developed and deployed **microservices** using **Spring Boot**.
 - Processed **Kafka messages** and stored structured data in **MongoDB**.
 - Built and maintained front-end components using **React.js and TypeScript**.
 - Deployed **Dockerized** applications in **AWS EKS**.
 - Configured **Grafana Dashboards** for real-time monitoring.
 
-### **Southwest Airlines | Full Stack Java Developer | Sept 2023 – June 2024**  
+### **Southwest Airlines | Software Developer | Sept 2023 – June 2024**  
 - Led **Spring Boot** microservices architecture implementation.
 - Integrated **Logstash, Elasticsearch, and Kibana** for real-time log analysis.
 - Automated cloud deployments with **Jenkins and Terraform**.
@@ -50,7 +50,7 @@ I am a **Java Full Stack Developer** with **4+ years** of experience, having wor
 🎓 **Master of Science in Information Technology in Management**  
 Concordia University, St. Paul  
 
-🎓 **Bachelor of Technology in Mechanical Engineering**  
+🎓 **Bachelor of Technology **  
 Bapatla Engineering College  
   
 
