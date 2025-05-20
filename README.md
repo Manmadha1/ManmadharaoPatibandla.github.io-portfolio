@@ -50,7 +50,7 @@ I am a **Java Full Stack Developer** with **4+ years** of experience, having wor
 🎓 **Master of Science in Information Technology in Management**  
 Concordia University, St. Paul  
 
-🎓 **Bachelor of Technology **  
+🎓 **Bachelor of Technology**  
 Bapatla Engineering College  
   
 
