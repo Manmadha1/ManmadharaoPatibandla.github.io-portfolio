@@ -9,7 +9,7 @@
  [Download Resume](https://github.com/Manmadha1/ManmadharaoPatibandla.github.io-portfolio/blob/main/Manmadharao.Paribandla%20Resume.docx)
 
 ##  About Me  
-I am a **Java Full Stack Developer** with **4+ years** of experience, having worked with top companies such as **Pearson, Southwest Airlines, Berkshire Hathaway, and DXC Technology**. My expertise lies in building **scalable, high-performance applications** using **Java, Spring Boot, React, Angular, and Cloud technologies**.
+I am a **Java Full Stack Developer** with **5+ years** of experience, having worked with top companies such as **Pearson, Southwest Airlines, Berkshire Hathaway, and DXC Technology**. My expertise lies in building **scalable, high-performance applications** using **Java, Spring Boot, React, Angular, and Cloud technologies**.
 
 
 ##  Skills & Expertise  
